@@ -11,9 +11,9 @@ Once launching the app, it will show up in the system tray along with the other 
 
 If you'd like it to automatically scale the image to 100% without needing to click on the balloon, just right-click on the app in the tray icons and check the 'Auto scale to 100%' option.
 
-Disclosure:
+Disclaimer:
 -----------
-I made this application for my own use, but decided shared it with the community for everyone to enjoy.
+I made this application for my own use, but decided to share it with the community for everyone to enjoy.
 It is given AS-IS, and I'm not responsible for any issues you may encounter with by using it. Use at your own risk!
 
 - Gal Shemesh (PacketLauncher)
